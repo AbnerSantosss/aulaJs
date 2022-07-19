@@ -1,27 +1,15 @@
-### Passos:
+### Atividades Propostas nas Aulas:
 
-- Clone o repositório na sua máquina 
-
-- Digite o seguinte comando 
-
- ~~~javascript
-
-npm install
-
-~~~
-
-O npm é o Gerenciador de Pacotes do Node (Node Package Manager) que ajuda a interagir com plataformas online, como navegadores e servidores. Essa utilidade auxilia na instalação e desinstalação de pacotes, gerenciamento da versões e gerenciamento de dependências necessárias para executar um projeto.
-
-### Como testar sua soluçao :
-
-- Após resolver o problema basta executar o seguinte comando:
+- 📌 1 - Elabore um algoritmo que receba dois números e determine qual é maior entre eles, se os números forem igueais, mostre uma mensagem no console "Os números são iguais
+> 
 
 
-~~~javascript
+- 📌 2 - Elabore um algoritmo que receba um número (1 - 7) e devolva o dia da semana correspondente.
+> 
 
-npm run test
 
-~~~
- #### Para saber um pouco mais sobre testes:
- 
-[Teste unitário com Jest](https://www.devmedia.com.br/teste-unitario-com-jest/41234)
+- 📌 3 - Calcule o tempo de uma viagem de carro. Pergunte a distâcia a percorrer e a velocidade média esperada para a viagem.
+> 
+
+
+- 📌 4 - Solicite o preço de uma mercadoria e o percentual de desconto 20%. Exiba no console o valor do desconto e o preço a pagar.
